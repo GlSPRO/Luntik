@@ -1,0 +1,11 @@
+{
+  "item.luntik.luntik": "LUNTIK",
+  "item.luntik.poopsen": "POOPS",
+    "item.luntik.shishka": "SHISHKA",
+    "item.luntik.pivo": "PIVO",
+  "block.luntik.drawing_block": "DRAWING LUNTIKA",
+  "block.luntik.glowing_water_block": "AQUA",
+  "block.luntik.custom_lava_block": "LAVA",
+  "block.luntik.custom_glass_block": "GLASS",
+  "itemGroup.Luntik tab": "LUNTIK_MODES"
+}

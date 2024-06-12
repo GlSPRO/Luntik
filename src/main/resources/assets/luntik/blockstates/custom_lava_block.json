@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "luntik:block/custom_lava_block"}
+  }
+}
